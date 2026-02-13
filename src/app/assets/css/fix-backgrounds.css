@@ -1,0 +1,19 @@
+/* Fix for background images */
+.banner-hero.hero-1 {
+  background-image: url('/assets/imgs/hero/bg-banner-main.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+.banner-hero.hero-2 {
+  background-image: url('/assets/imgs/hero/bg-banner-2.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+.banner-hero.hero-4 {
+  background: url('/assets/imgs/hero/bg-banner.png') no-repeat top -90px center;
+  background-size: cover;
+}

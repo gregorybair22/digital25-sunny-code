@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adfinityclarity.com/sitemap_index.xml
